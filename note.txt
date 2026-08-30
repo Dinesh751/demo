@@ -1,0 +1,3 @@
+Git Practice Log
+=================
+Day 1: Learning git add, commit, push
