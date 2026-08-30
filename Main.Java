@@ -1,6 +1,6 @@
 class Main {
     public static void main(String args[]) {
-        System.out.println("Line A1 - main branch version");
+      System.out.println("Line A1 - NEW change on main after merge");
         System.out.println("Line A2 - test-branch version");
 
         int x = 10;
